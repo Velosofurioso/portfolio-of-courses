@@ -7,17 +7,19 @@ This repository showcases projects I developed as part of various courses I've t
 The repository is organized as follows:
 
 
+```
 /<repository-name>
 │
-├── `<course-name-1>`/
+├── <course-name-1>/
 │   ├── project/
 │   └── certificate.pdf
 │
-├── `<course-name-2>`/
+├── <course-name-2>/
 │   ├── project/
 │   └── certificate.pdf
 │
 └── ...
+```
 
 - **`<course-name-1>`**: Name of the course or field of study.
 - **`project/`**: Folder containing the files of the project completed during the course.
