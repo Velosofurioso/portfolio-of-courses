@@ -1,10 +1,11 @@
-# Portfolio of Course Projects 📚
+# 📚 Portfolio of Course Projects
 
-This repository showcases projects I developed as part of various courses I've taken across different fields. Each folder within this repository contains a specific project, along with the corresponding course certificate.
+Welcome to my portfolio repository!  
+Here you'll find the projects I've developed while completing various courses, alongside their respective certificates.
 
-## Repository Structure 🗂️
+---
 
-The repository is organized as follows:
+## 🗂️ Repository Structure
 
 
 ```
@@ -21,24 +22,40 @@ The repository is organized as follows:
 └── ...
 ```
 
-- **`<course-name-1>`**: Name of the course or field of study.
-- **`project/`**: Folder containing the files of the project completed during the course.
-- **`certificate.pdf`**: The digital certificate verifying the completion of the course.
 
-## Navigating the Repository 🧭
+- **`<course-name-x>`**: Course title or subject area.
+- **`project/`**: Source code, documentation, and other related materials.
+- **`certificate.pdf`**: Proof of course completion.
 
-1. **Access the course folder**: Each folder is named according to the course or field of study. Simply navigate into the folder of the course you're interested in.
-2. **View the project**: Inside each course folder, you'll find the project-related files, including source code, documentation, and any other relevant materials.
-3. **Access the certificate**: The `certificate.pdf` file is available in each folder and can be opened to view proof of course completion.
+---
 
-## Using the Projects ⚙️
+## 🧭 How to Navigate
 
-Each project is self-contained and can be executed based on the specific instructions provided for each course. Be sure to review the contents of each folder for additional details, such as supplementary `README` files or execution guidelines.
+1. Open the folder corresponding to the course you're interested in.
+2. Explore the project files inside the `project/` folder.
+3. View the completion certificate (`certificate.pdf`) if available.
 
-## Contributing 🤝
+---
 
-This repository is primarily for personal use, as it serves to store the projects I have worked on during my courses. However, if you wish to contribute, offer suggestions, or have any feedback, feel free to open an **issue** or submit a **pull request**.
+## 🚀 Highlights
 
-## License 📜
+- Java, Spring Boot, MySQL, Docker
+- API development, Microservices architecture
+- Version control with Git & GitHub
+- Test automation and unit testing
 
-This repository is maintained for educational purposes and does not have a public license for broader use. The content of the courses and certificates belongs to the respective platforms and institutions that provided them.
+*(This list will expand as new projects are added!)*
+
+---
+
+## 🤝 Contributions
+
+This repository is for educational and portfolio purposes only.  
+However, feel free to open an **issue** or submit a **pull request** with feedback or suggestions!
+
+---
+
+## 📜 License
+
+Projects and certificates are intended for educational display only.  
+Course content belongs to the original platforms and institutions.
